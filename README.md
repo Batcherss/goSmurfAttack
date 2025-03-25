@@ -5,7 +5,8 @@ The author is not responsible, the program uses the MIT license.
 
 # Main
 
-![goSmurfAttack'er](https://img.shields.io/badge/Status-Active-green)
+![Repo Size](https://img.shields.io/github/repo-size/Batcherss/goSmurfAttack?color=green)
+![goSmurfAttack'er](https://img.shields.io/badge/Status-WIP-yellow)
 ![Go Version](https://img.shields.io/badge/Go-%3E%3D%201.18-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Version](https://img.shields.io/badge/Version-1.0.2-blue)
