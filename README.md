@@ -70,6 +70,11 @@ Run the program:
 go run main.go
 ```
 
+Or you can just start
+```
+cmd.bat
+```
+that will automatic start the main.go
 # How it works?
 ![How it works](.github/instructions1.png)
 
