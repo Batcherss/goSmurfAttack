@@ -80,13 +80,12 @@ A smurf attack is a type of distributed denial-of-service (DDoS) attack in which
 This type of attack leverages the amplification of the broadcast address to increase the volume of traffic directed at the target, making it more damaging with fewer resources required from the attacker.
 
 # How to use
-After a successful launch, a console will appear with the following settings:
-src ip: victim ip
-packet size: packet size (preferably up to 1000 bytes)
-num. of req.: number of requests (from 100 to 200)
+- Set it up:
+  - `src ip: (Enter here victim ip)`
+  - `packet size: (There's packet size of sending icmp , preferably up to 1000 bytes)`
+  - `num. of req.: (Number of requests (from 100 to 200 average for routes)`
 
-Notes
+# Notes
 Make sure you have administrator rights to work with network packets.
-
 The program uses Npcap, so be sure to install it before running the program, otherwise, it may not work correctly.
 
