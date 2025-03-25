@@ -71,7 +71,7 @@ go run main.go
 ```
 
 # How it works?
-![How it works](.github/instruction.png)
+![How it works](.github/instructions1.png)
 
 A smurf attack is a type of distributed denial-of-service (DDoS) attack in which an attacker exploits a network protocol to flood a target system with traffic, overwhelming it. Here's how it works:
 1. Spoofing the Source Address: The attacker sends a ping request (ICMP Echo Request) to a network's broadcast address, but with the source IP address spoofed to be that of the target system.
