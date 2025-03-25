@@ -52,12 +52,12 @@ How to Run
 Clone the repository:
 
 ```git
-git clone https://github.com/yourusername/stress-test-program.git
+git clone https://github.com/Batcherss/goSmurfAttack.git
 ```
 
 Enter the folder:
 ```cmd
-cd stress-test-program
+cd goSmurfAttack
 ```
 
 Install the necessary dependencies (if not already installed):
@@ -70,7 +70,7 @@ Run the program:
 go run main.go
 ```
 
-#How to use
+# How to use
 After a successful launch, a console will appear with the following settings:
 src ip: victim ip
 packet size: packet size (preferably up to 1000 bytes)
