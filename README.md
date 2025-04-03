@@ -1,7 +1,7 @@
 # Use for educational purposes only!
-This program is a stress tester
-use at your own risk
+Use at your own risk
 The author is not responsible, the program uses the MIT license.
+This is just an example of the work of the smurf attack
 
 # Main
 
@@ -11,6 +11,7 @@ The author is not responsible, the program uses the MIT license.
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Version](https://img.shields.io/badge/Version-1.0.3-blue)
 ![OS Support](https://img.shields.io/badge/OS-Supported%20Windows%2C%20Unix%2C%20MacOS%2C%20FreeBSD-lightgray)
+![Last Commit](https://img.shields.io/github/last-commit/Batcherss/goSmurfAttack)
 
 
 
